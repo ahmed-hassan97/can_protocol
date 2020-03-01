@@ -1,0 +1,4 @@
+can_driver.c:132:6:CAN1_Init	4	static
+can_driver.c:291:6:CAN1_Transmit	4	static
+can_driver.c:318:6:CAN1_Receive	16	static
+can_driver.c:408:6:gpio_init	16	static
